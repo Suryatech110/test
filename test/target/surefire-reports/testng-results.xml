@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29841" started-at="2021-07-19T03:38:06Z" finished-at="2021-07-19T03:38:36Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="8701" started-at="2021-07-19T03:38:06Z" finished-at="2021-07-19T03:38:15Z">
+      <class name="qaclickacdemy.Test2">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacdemy.Test2@4c371370]" name="initialize" is-config="true" duration-ms="8506" started-at="2021-07-19T09:08:06Z" finished-at="2021-07-19T09:08:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Nvaigation2()[pri:0, instance:qaclickacdemy.Test2@4c371370]" name="Nvaigation2" duration-ms="106" started-at="2021-07-19T09:08:14Z" finished-at="2021-07-19T09:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nvaigation2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacdemy.Test2@4c371370]" name="tearDown" is-config="true" duration-ms="79" started-at="2021-07-19T09:08:15Z" finished-at="2021-07-19T09:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacdemy.Test2 -->
+    </test> <!-- Test2 -->
+    <test name="TEST" duration-ms="21110" started-at="2021-07-19T03:38:15Z" finished-at="2021-07-19T03:38:36Z">
+      <class name="qaclickacdemy.TEST">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacdemy.TEST@515c6049]" name="initialize" is-config="true" duration-ms="10405" started-at="2021-07-19T09:08:15Z" finished-at="2021-07-19T09:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="firstNvaigation(java.lang.String, java.lang.String)[pri:0, instance:qaclickacdemy.TEST@515c6049]" name="firstNvaigation" duration-ms="6575" started-at="2021-07-19T09:08:25Z" data-provider="getData" finished-at="2021-07-19T09:08:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[singh.sq110@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstNvaigation -->
+        <test-method status="PASS" signature="firstNvaigation(java.lang.String, java.lang.String)[pri:0, instance:qaclickacdemy.TEST@515c6049]" name="firstNvaigation" duration-ms="4072" started-at="2021-07-19T09:08:32Z" data-provider="getData" finished-at="2021-07-19T09:08:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[singh.sp110@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstNvaigation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaclickacdemy.TEST@515c6049]" name="tearDown" is-config="true" duration-ms="57" started-at="2021-07-19T09:08:36Z" finished-at="2021-07-19T09:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaclickacdemy.TEST -->
+    </test> <!-- TEST -->
+  </suite> <!-- Suite -->
+</testng-results>

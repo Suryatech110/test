@@ -1,0 +1,57 @@
+11:01:28.490 [TestNG] INFO  qaclickacdemy.TEST - entering the password
+11:01:28.658 [TestNG] INFO  qaclickacdemy.TEST - click to the login button
+11:01:29.044 [TestNG] INFO  qaclickacdemy.TEST - Navigated to the Url 
+11:01:31.159 [TestNG] INFO  qaclickacdemy.TEST - click to the login icon
+11:01:31.562 [TestNG] INFO  qaclickacdemy.TEST - entering the username
+11:01:31.714 [TestNG] INFO  qaclickacdemy.TEST - entering the password
+11:01:31.837 [TestNG] INFO  qaclickacdemy.TEST - click to the login button
+11:38:56.091 [TestNG] INFO  qaclickacdemy.TEST - restrict user
+11:38:56.095 [TestNG] INFO  qaclickacdemy.TEST - unrestrict user
+11:39:52.074 [TestNG] INFO  qaclickacdemy.Test2 - Driver is initialize 
+11:39:52.085 [TestNG] INFO  qaclickacdemy.TEST - Driver is initialize 
+11:39:54.477 [TestNG] INFO  qaclickacdemy.TEST - Navigated to the Url 
+11:39:54.508 [TestNG] INFO  qaclickacdemy.TEST - restrict user
+11:39:54.509 [TestNG] INFO  qaclickacdemy.TEST - unrestrict user
+11:39:54.837 [TestNG] INFO  qaclickacdemy.TEST - Navigated to the Url 
+11:42:42.813 [TestNG] INFO  qaclickacdemy.Test2 - Driver is initialize 
+11:42:42.819 [TestNG] INFO  qaclickacdemy.TEST - Driver is initialize 
+11:42:50.660 [TestNG] INFO  qaclickacdemy.Test2 - Navigated to the Url 
+11:42:50.751 [TestNG] INFO  qaclickacdemy.TEST - Navigated to the Url 
+11:42:50.753 [TestNG] INFO  qaclickacdemy.TEST - restrict user
+11:42:50.753 [TestNG] INFO  qaclickacdemy.TEST - unrestrict user
+11:42:50.756 [TestNG] INFO  qaclickacdemy.TEST - Navigated to the Url 
+11:42:50.808 [TestNG] INFO  qaclickacdemy.Test2 - Successfully matched to the text message
+11:42:50.816 [TestNG] INFO  qaclickacdemy.Test2 - Driver is successfully closed
+11:42:52.419 [TestNG] INFO  qaclickacdemy.TEST - click to the login icon
+11:42:54.108 [TestNG] INFO  qaclickacdemy.TEST - entering the username
+11:42:54.221 [TestNG] INFO  qaclickacdemy.TEST - entering the password
+11:42:54.296 [TestNG] INFO  qaclickacdemy.TEST - click to the login button
+11:42:54.575 [TestNG] INFO  qaclickacdemy.TEST - Navigated to the Url 
+11:42:56.274 [TestNG] INFO  qaclickacdemy.TEST - click to the login icon
+11:42:56.725 [TestNG] INFO  qaclickacdemy.TEST - entering the username
+11:42:56.879 [TestNG] INFO  qaclickacdemy.TEST - entering the password
+11:42:56.972 [TestNG] INFO  qaclickacdemy.TEST - click to the login button
+19:29:13.629 [main] INFO  qaclickacdemy.TEST - Driver is initialize 
+19:29:55.719 [main] INFO  qaclickacdemy.TEST - Navigated to the Url 
+19:32:18.093 [main] INFO  qaclickacdemy.TEST - Driver is initialize 
+19:32:55.737 [main] INFO  qaclickacdemy.TEST - Navigated to the Url 
+09:52:44.876 [main] INFO  qaclickacdemy.NavigationFlow - Driver is initialize 
+09:53:02.888 [main] INFO  qaclickacdemy.NavigationFlow - Navigated to the Url 
+08:51:30.299 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+08:51:56.083 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 
+08:53:55.949 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+08:54:04.181 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 
+08:59:10.830 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+08:59:22.755 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 
+09:04:46.283 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+09:04:56.676 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 
+09:09:30.831 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+09:10:20.144 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 
+09:13:48.062 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+09:14:01.047 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 
+09:17:14.316 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+09:17:37.712 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 
+09:20:03.372 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+09:20:19.189 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 
+16:26:43.772 [main] INFO  qaclickacdemy.TestClass - Driver is initialize 
+16:26:56.142 [main] INFO  qaclickacdemy.TestClass - Navigated to the Url 

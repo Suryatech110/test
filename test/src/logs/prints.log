@@ -1,0 +1,6 @@
+16:54:36.852 [main] INFO  qaclickacdemy.TEST - Navigated to the Url 
+16:54:38.441 [main] INFO  qaclickacdemy.TEST - click to the login icon
+16:54:39.059 [main] INFO  qaclickacdemy.TEST - entering the username
+16:54:39.251 [main] INFO  qaclickacdemy.TEST - entering the password
+16:54:39.384 [main] INFO  qaclickacdemy.TEST - click to the login button
+16:54:39.974 [main] INFO  qaclickacdemy.Test2 - Driver is successfully closed

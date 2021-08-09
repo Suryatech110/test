@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18431" started-at="2021-08-04T10:56:41Z" finished-at="2021-08-04T10:56:59Z">
+    <groups>
+    </groups>
+    <test name="TEST" duration-ms="18431" started-at="2021-08-04T10:56:41Z" finished-at="2021-08-04T10:56:59Z">
+      <class name="qaclickacdemy.TestClass">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:qaclickacdemy.TestClass@413d1baf]" name="initialize" is-config="true" duration-ms="15008" started-at="2021-08-04T16:26:41Z" finished-at="2021-08-04T16:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="RegistraationFlow()[pri:0, instance:qaclickacdemy.TestClass@413d1baf]" name="RegistraationFlow" duration-ms="3392" started-at="2021-08-04T16:26:56Z" finished-at="2021-08-04T16:26:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistraationFlow -->
+      </class> <!-- qaclickacdemy.TestClass -->
+    </test> <!-- TEST -->
+  </suite> <!-- Suite -->
+</testng-results>

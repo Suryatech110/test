@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="qaclickacdemy.TEST">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initializeDriver"/>
+        </methods>
+      </class> <!-- qaclickacdemy.TEST -->
+      <class name="qaclickacdemy.Test2">
+        <methods>
+          <include name="firstNvaigation2"/>
+        </methods>
+      </class> <!-- qaclickacdemy.Test2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
